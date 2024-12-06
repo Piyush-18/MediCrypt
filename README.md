@@ -16,7 +16,7 @@ The encoded image is then sent over a network, and the recipient (Hospital B) ca
 
 - **Websocket (Socket.IO)**:  effortless transmission of Images without the need for local storage/download.
 
--  **DIACOM**: Integrates DIACOM and Slice generation to generate slices of 3D-Model based the DIACOM image.
+-  **DICOM**: Integrates DICOM and Slice generation to generate slices of 3D-Model based the DICOM image.
 
 -  **MatPlotLib**: Generate Analytics, Search reports of patients stored in SQL Database using MatPlotLib.
 
