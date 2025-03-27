@@ -31,7 +31,7 @@ The encoded image is then sent over a network, and the recipient (Hospital B) ca
   1) Convert patient data to binary.
   2) Use a predefined DNA key to map binary sequences to DNA bases.
   3) Generate an encrypted DNA sequence.
-  4) AES RES is used for encryption decryption
+  4) AES RSA is used for encryption decryption
 
 - **User-Friendly Interface**:
   Image steganography hides data within an image file by altering the least significant bits of each pixel’s color values. Because the LSB has the least impact on the color's appearance, the modifications remain imperceptible to the human eye. The steps involved in LSB steganography are:
